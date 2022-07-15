@@ -1,0 +1,36 @@
+C5, C6 35v 1000uf.
+c?4 next to the bridge diode, its 25v 3300uf
+c17    100uf
+c16     47uf
+c15     47uf
+c13.    1uf
+c14     47uf
+
+c1, c2, c3 - 0.01 UF Ceramic
+c7, c8, c9, c10, c11, c12, c21 - 0.1uf Ceramic
+
+c19 6.8/10 tant, dont touch it!]
+
+r1 - 33k
+r2 - 82ohm
+
+q1 - 25c945q
+
+ic1- l85mr05 weird thing
+ic2 - an7815f
+ic3 - an7915f  
+
+d3, d4, d5. - 1sr35-200??? 
+
+d1 - 2b4b41
+d2 - s1vb10
+
+Two 35v 1000uf
+One 25v 3300uf
+One 100uf
+Three 47uf
+ONE 1uf
+THREE  0.01uf
+SEVEN 0.1uf ceramic
+one 7815
+one 7915

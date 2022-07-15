@@ -1,0 +1,19 @@
+C8? is it ok
+
+c11 - 100uf 200v
+
+
+Q1 - NEC C3570 K 62
+D8 - IR8D 5K030
+
+
+R24 -  read 1.6k in circuit,  3.3k out of circuit -   1/4w
+R25 - read 1.8k in circuit, should be 3.6k. -  1/4w
+
+R20, R21 - 560 ohm 1/2w
+R22 - 220 1/2w
+
+NEC C1093 751A
+
+
+# of parts to replace: 14 (16 including two bad staples)
